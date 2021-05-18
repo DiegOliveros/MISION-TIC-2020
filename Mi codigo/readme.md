@@ -1,8 +1,6 @@
 # Archivos de ejercicios de mi clase.
 
-[!][repository](https://github.com/DiegOliveros/MISION-TIC-2020)
-
-This repository contain material and instructions to follow the "Misión tic 2020" curso 2020.
+[!][repository](https://github.com/DiegOliveros/MISION-TIC-2020) This repository contain material and instructions to follow the "Misión tic 2020" curso 2020.
 
 # Crea tu carpeta
 
